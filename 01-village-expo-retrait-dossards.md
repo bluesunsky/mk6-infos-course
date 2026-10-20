@@ -5,7 +5,7 @@
 > Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources officielles : à vérifier auprès de l'organisation.
 
 **À présenter :**
-1. Le **bon de retrait** (envoyé par email – voir [À CONFIRMER] sur la date d'envoi). Aussi téléchargeable depuis le dossier coureur (« Suis-je inscrit ? »).
+1. Le **bon de retrait**, envoyé par email le **lundi 19 ou mardi 20 octobre**. Aussi téléchargeable depuis le dossier coureur (« Suis-je inscrit ? »).
 2. Une **pièce d'identité**.
 3. Le **justificatif médical**, uniquement si le n° PPS ou le n° de licence FFA n'a pas été enregistré en ligne avant le 22/10.
 
@@ -28,3 +28,25 @@
 - Stand des **Experts**, **New Balance / Running Conseil**.
 - **Delouss Pasta** : Pasta Box (voir [À CONFIRMER] pour le prix et les horaires).
 - Options achetées : Box Pasta, affiche officielle 40×60 (6 €, retrait gratuit au Village), plaque gravée pour la médaille (10 €, envoi postal), affiche FINISHERS (envoi 5 jours après la course).
+
+## Plan du Village Expo (n° de stand)
+
+[Plan officiel du Village (PDF)](https://www.marseille-cassis.com/upload/MC26/PLAN-VILLAGE-2026-2D.pdf)
+
+**Circulation :** **entrée du village** en bas du plan (consignes juste à côté), puis l'espace organisation et partenaires. On monte ensuite par les escaliers vers la zone Experts, les exposants et le **point info course**. La **sortie du village** est sur la droite de cette partie haute. Toilettes près des escaliers de gauche et près de la sortie.
+
+| N° | Stand organisation |
+|---|---|
+| 1 | Consignes – vestiaires (à l'entrée) |
+| 2 | Accueil |
+| 3 | **Retrait des dossards individuels** |
+| 4 | Retrait des dossards groupes |
+| 6 | Retrait des tee-shirts |
+| 23 | Zone Experts |
+| 33 | Espace VIP |
+| 35 | SCO Ste Marguerite – section athlétisme |
+| 44 | **Trains ZOU** |
+| 45 | **Point info course** (partie haute, près de la sortie) |
+| 46 | Marseille-Cassis Solidaire |
+
+Stands partenaires et exposants : voir [12-partenaires.md](12-partenaires.md). Animations des stands : voir [13-animations.md](13-animations.md).

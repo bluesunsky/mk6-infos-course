@@ -2,11 +2,10 @@
 
 ← [Sommaire](README.md)
 
-> Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources officielles : à vérifier auprès de l'organisation.
-
 | Heure | Quoi | Où |
 |---|---|---|
 | **6h00–8h00** | Autocars coureurs aller (voir §7) | Aubagne / Cassis → Marseille |
+| **6h45** | **Ouverture de la zone de départ** | Esplanade Ganay |
 | **6h45–8h00** | Dépôt des sacs vestiaires | Camions rue Raymond Teisseire, abords de l'esplanade Ganay |
 | **8h30** | **Fermeture des SAS préférentiels** (-1h20 / -1h30 / -1h45). Les retardataires partent dans les SAS suivants | Allée Ray Grassi |
 | 8h30 | Direct radio ICI Provence | |
@@ -19,7 +18,5 @@
 | **11h30** | Début des autocars retour | Cassis |
 | **12h45** | **Barrière horaire définitive** au rond-point Jean-Jacques Bontoux (bas de la Gineste, Cassis) | |
 | 18h00 | Derniers autocars retour | |
-
-**Heure d'ouverture de la zone de départ : [À CONFIRMER]**, elle n'est indiquée nulle part.
 
 **Chrono :** temps réel, déclenché au passage sous l'arche de départ. Partir dans une vague plus tardive ne pénalise donc pas le temps.

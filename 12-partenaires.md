@@ -2,7 +2,7 @@
 
 ← [Sommaire](README.md)
 
-> Sources : programme des animations (PDF), consignes de course (PDF), plan d'arrivée (PDF), pages « Nos partenaires », « Opérations partenaires », « Infos accompagnants », « Village Expo ».
+> Sources : programme des animations du parcours (PDF), plan et programme du Village Expo (PDF), consignes de course (PDF), pages « Nos partenaires », « Opérations partenaires », « Infos accompagnants », « Village Expo ».
 > Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources officielles : à vérifier auprès de l'organisation.
 
 ## Zones partenaires sur le parcours
@@ -29,8 +29,6 @@ Les kilomètres varient de 0,1 à 0,5 km selon les documents : la page Accompagn
 5. **Km 19,4 – Hyundai** : avenue de la Gare.
 6. **Km 20 – Arrivée** : avenue des Albizzi.
 
-**Zone d'arrivée (plan d'arrivée) :** aucun stand de partenaire n'y figure. On y trouve l'espace VIP / Média, le podium, l'écran géant, le point info course, le point rencontre, les kinés, les postes de secours, la rampe d'eau, le retrait des sacs vestiaires et le petit train vers le centre-ville. Les stands partenaires à l'arrivée sont **[À CONFIRMER]**.
-
 ## Ce que font les partenaires pendant l'événement
 
 | Partenaire | Rôle / opération |
@@ -38,8 +36,8 @@ Les kilomètres varient de 0,1 à 0,5 km selon les documents : la page Accompagn
 | **AG2R La Mondiale** | Partenaire titre. Zones d'encouragement aux km 2 et 16,2 |
 | **New Balance** | Équipe les meneurs d'allure. Stand au Village Expo (conseils). Zone au km 17,4 |
 | **Running Conseil** | Stand au Village Expo (conseils). Zone au km 7. Co-organise les « RUN Marseille-Cassis » |
-| **Hyundai** | Parraine les 20 meneurs d'allure « Run to Progress ». Zone musicale au km 19,4. Jeu concours « Hyundai Experience » (un aller-retour avec chauffeur à gagner) |
-| **Powerade** | Distribution de boissons autour du 1er ravitaillement (avant ou après, voir [À CONFIRMER]). Zone au km 4,5 |
+| **Hyundai** | Parraine les 20 meneurs d'allure « Run to Progress ». Zone musicale au km 19,4 : au Village (stand 12), chaque coureur choisit **sa musique préférée**, diffusée à son passage sous l'arche Hyundai, à 500 m de l'arrivée. Jeu concours « Hyundai Experience » (un aller-retour avec chauffeur à gagner) |
+| **Powerade** | Distribution de boissons **juste avant** le 1er ravitaillement (zone km 4,5). Dégustation au Village (stand 14) |
 | **Caisse d'Épargne CEPAC** | Flamme rouge, km 19 |
 | **Orange** | Team Orange Running, km 17,5 |
 | **Delouss Pasta** | Restauration au Village Expo, Pasta Box (prix et horaires [À CONFIRMER]) |
@@ -52,7 +50,32 @@ Les kilomètres varient de 0,1 à 0,5 km selon les documents : la page Accompagn
 
 ## Village Expo (Parc Chanot)
 
-Partenaires cités sur le site : **New Balance**, **Running Conseil**, **Delouss Pasta**, stand **Trains ZOU**, stand des **Experts**. Le site parle de « nombreuses animations sur les stands partenaires et exposants » sans en donner la liste. **Plan du Village et liste des stands : [À CONFIRMER]**.
+[Plan officiel du Village (PDF)](https://www.marseille-cassis.com/upload/MC26/PLAN-VILLAGE-2026-2D.pdf). Stands organisation (dossards, point info, Trains ZOU…) : voir [01-village-expo-retrait-dossards.md](01-village-expo-retrait-dossards.md). Animations de chaque stand : voir [13-animations.md](13-animations.md).
+
+| N° | Partenaire | N° | Partenaire |
+|---|---|---|---|
+| 5 | AG2R La Mondiale | 16 | Belkin |
+| 7 | New Balance | 17 | La Provence |
+| 8 | Ville de Marseille | 18 | Région Sud |
+| 9 | Caisse d'Épargne CEPAC | 19 | Département des Bouches-du-Rhône |
+| 10 | Les Fadas des Fruits Secs | 20 | CAES du CNRS |
+| 11 | Running Conseil | 21 | Finishers |
+| 12 | Hyundai | 22 | Orange |
+| 13 | Biotherm | 47 | Vinci |
+| 14 | Powerade | 48 | Onet |
+| 15 | Sanofi Regeneron | 49 | Last Minute Partenaires |
+
+| N° | Exposant | N° | Exposant |
+|---|---|---|---|
+| 24 | Running Conseil Marseille | 34 | 3B Pro – Publicité par l'image |
+| 25 | Athlet Nutrition | 36 | Puressentiel |
+| 26 | **Delouss Pasta** | 37 | Les Frères Chaussettes |
+| 27 | Goxoa Sport Beer | 38 | Laboratoire Phytomedica |
+| 28 | Baouw Organic Nutrition | 39 | LCF Outdoor |
+| 29 | Incylence | 40 | Créasports Organisation |
+| 30 | Domaine Cassis Bodin | 41 | Marseille Outdoor Experience – MOE |
+| 31 | Nutri&Co | 42 | Marathon du Golfe de Saint-Tropez |
+| 32 | Je cours pour Tom | 43 | Competitor |
 
 ## Liste officielle des partenaires 2026
 
@@ -66,7 +89,8 @@ Partenaires cités sur le site : **New Balance**, **Running Conseil**, **Delouss
 ## Sources
 
 - Programme des animations : https://www.marseille-cassis.com/upload/MC26/MCxALM26-Programme-Animations.pdf
-- Plan d'arrivée : https://www.marseille-cassis.com/upload/MC26/MC26_PLAN-ARRIV%C3%89E-4.pdf
+- Plan du Village Expo : https://www.marseille-cassis.com/upload/MC26/PLAN-VILLAGE-2026-2D.pdf
+- Programme des animations du Village : https://www.marseille-cassis.com/upload/MC26/PROG-ANIMATIONS-MCxALM26.pdf
 - Nos partenaires : https://www.marseille-cassis.com/fr/partenaires/nos-partenaires
 - Opérations partenaires : https://www.marseille-cassis.com/fr/partenaires/operations-partenaires
 - Infos accompagnants : https://www.marseille-cassis.com/fr/infos-pratiques/infos-accompagnants

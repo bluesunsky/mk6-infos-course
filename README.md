@@ -54,4 +54,6 @@ Fiches de référence pour le stand **« Infos Course »** de Marseille-Cassis 2
 - PDF Plan du parcours : https://www.marseille-cassis.com/upload/MC26/MC26_PLAN-PARCOURS-4.pdf
 - PDF Plan d'arrivée : https://www.marseille-cassis.com/upload/MC26/MC26_PLAN-ARRIV%C3%89E-4.pdf
 - PDF Circulation & stationnement : https://www.marseille-cassis.com/upload/MC26/INFORMATIONS-CIRCULATION-%26-STATIONNEMENT-FR-2-2026.pdf
-- PDF Programme des animations : https://www.marseille-cassis.com/upload/MC26/MCxALM26-Programme-Animations.pdf
+- PDF Programme des animations (parcours) : https://www.marseille-cassis.com/upload/MC26/MCxALM26-Programme-Animations.pdf
+- PDF Plan du Village Expo : https://www.marseille-cassis.com/upload/MC26/PLAN-VILLAGE-2026-2D.pdf
+- PDF Programme des animations du Village : https://www.marseille-cassis.com/upload/MC26/PROG-ANIMATIONS-MCxALM26.pdf
