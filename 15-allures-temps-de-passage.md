@@ -1,6 +1,6 @@
 # Point Info Course 2026 – Allures & temps de passage (par km)
 
-← [Sommaire](00-sommaire.md)
+← [Sommaire](README.md)
 
 > ⚠️ **Estimation non officielle.** Aucun document de l'organisation ne donne de temps de passage. Ces temps sont calculés **km par km** à partir des altitudes du [plan officiel du parcours](https://www.marseille-cassis.com/upload/MC26/MC26_PLAN-PARCOURS-4.pdf) : environ +3,3 % de temps par % de pente en montée, environ −1,8 % par % de pente en descente.
 > Réponse prioritaire au stand : **« Suivez le meneur d'allure de votre objectif »** (voir en bas de page).

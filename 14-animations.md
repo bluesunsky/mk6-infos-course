@@ -1,6 +1,6 @@
 # Point Info Course 2026 – Animations
 
-← [Sommaire](00-sommaire.md)
+← [Sommaire](README.md)
 
 > Source principale : [Programme des animations (PDF)](https://www.marseille-cassis.com/upload/MC26/MCxALM26-Programme-Animations.pdf). Complété par les consignes de course, le plan d'arrivée et les pages Village Expo et Accompagnants.
 > Les points marqués **[À CONFIRMER]** sont détaillés dans [12-points-a-confirmer.md](12-points-a-confirmer.md).

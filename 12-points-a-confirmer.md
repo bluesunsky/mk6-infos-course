@@ -1,6 +1,6 @@
 # Point Info Course 2026 – Points contradictoires & questions à l'organisation
 
-← [Sommaire](00-sommaire.md)
+← [Sommaire](README.md)
 
 ## ⚠️ Points contradictoires – réponses conseillées
 

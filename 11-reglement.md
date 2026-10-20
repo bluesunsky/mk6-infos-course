@@ -1,6 +1,6 @@
 # Point Info Course 2026 – Rappels règlementaires
 
-← [Sommaire](00-sommaire.md)
+← [Sommaire](README.md)
 
 > Les points marqués **[À CONFIRMER]** sont détaillés dans [12-points-a-confirmer.md](12-points-a-confirmer.md).
 
