@@ -3,7 +3,7 @@
 ← [Sommaire](README.md)
 
 > Sources : programme des animations (PDF), consignes de course (PDF), plan d'arrivée (PDF), pages « Nos partenaires », « Opérations partenaires », « Infos accompagnants », « Village Expo ».
-> Les points marqués **[À CONFIRMER]** sont détaillés dans [12-points-a-confirmer.md](12-points-a-confirmer.md).
+> Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources officielles : à vérifier auprès de l'organisation.
 
 ## Zones partenaires sur le parcours
 

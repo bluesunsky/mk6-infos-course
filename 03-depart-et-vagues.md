@@ -2,8 +2,7 @@
 
 ← [Sommaire](README.md)
 
-> Les points marqués **[À CONFIRMER]** sont détaillés dans [12-points-a-confirmer.md](12-points-a-confirmer.md).
-
+> Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources officielles : à vérifier auprès de l'organisation.
 
 **Accès :**
 - **Uniquement par l'esplanade Ganay**, en venant de la **rue Raymond Teisseire**.

@@ -3,7 +3,7 @@
 ← [Sommaire](README.md)
 
 > Source principale : [Programme des animations (PDF)](https://www.marseille-cassis.com/upload/MC26/MCxALM26-Programme-Animations.pdf). Complété par les consignes de course, le plan d'arrivée et les pages Village Expo et Accompagnants.
-> Les points marqués **[À CONFIRMER]** sont détaillés dans [12-points-a-confirmer.md](12-points-a-confirmer.md).
+> Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources officielles : à vérifier auprès de l'organisation.
 
 ## Sur le parcours : orchestres, DJ et zones d'encouragement
 

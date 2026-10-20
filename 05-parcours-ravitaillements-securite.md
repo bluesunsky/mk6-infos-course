@@ -2,8 +2,7 @@
 
 ← [Sommaire](README.md)
 
-> Les points marqués **[À CONFIRMER]** sont détaillés dans [12-points-a-confirmer.md](12-points-a-confirmer.md).
-
+> Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources officielles : à vérifier auprès de l'organisation.
 
 **Profil :** montée jusqu'au **Col de la Gineste (327 m) vers le km 10**, puis longue descente vers Cassis. Le parcours traverse le **Parc national des Calanques** sur environ 12 km.
 

@@ -2,8 +2,7 @@
 
 ← [Sommaire](README.md)
 
-> Les points marqués **[À CONFIRMER]** sont détaillés dans [12-points-a-confirmer.md](12-points-a-confirmer.md).
-
+> Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources officielles : à vérifier auprès de l'organisation.
 
 **À présenter :**
 1. Le **bon de retrait** (envoyé par email – voir [À CONFIRMER] sur la date d'envoi). Aussi téléchargeable depuis le dossier coureur (« Suis-je inscrit ? »).

@@ -2,9 +2,6 @@
 
 ← [Sommaire](README.md)
 
-> Les points marqués **[À CONFIRMER]** sont détaillés dans [12-points-a-confirmer.md](12-points-a-confirmer.md).
-
-
 - Ligne d'arrivée **avenue des Albizzi**, au cœur des vignes.
 - Après la ligne : eau, puis **médaille finisher + sac ravitaillement** (sur présentation du **dossard + bracelet**).
 - **Sacs vestiaires : avenue Foch.**

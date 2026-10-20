@@ -3,7 +3,7 @@
 Fiches de référence pour le stand **« Infos Course »** de Marseille-Cassis 2026 (Village Expo des 23 et 24 octobre et jour J, dimanche 25 octobre 2026).
 
 > Compilées le 20/10/2026 à partir du site officiel [marseille-cassis.com](https://www.marseille-cassis.com), de la FAQ, du règlement et des PDF publiés par l'organisation (consignes, plans, circulation, animations). Ce n'est pas une publication officielle de l'organisation (SCO Sainte Marguerite) : en cas de doute, la parole de l'organisation fait foi.
-> ⚠️ Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources : voir la fiche [12 – Points à confirmer](12-points-a-confirmer.md) avant de répondre.
+> ⚠️ Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources : à vérifier auprès de l'organisation avant de répondre.
 
 ## L'essentiel en 30 secondes
 
@@ -32,10 +32,9 @@ Fiches de référence pour le stand **« Infos Course »** de Marseille-Cassis 2
 | 09 | [Accompagnants & spectateurs](09-accompagnants-spectateurs.md) |
 | 10 | [Après la course (résultats, photos, diplômes)](10-apres-course-resultats.md) |
 | 11 | [Rappels règlementaires](11-reglement.md) |
-| 12 | [Points contradictoires & questions à l'organisation](12-points-a-confirmer.md) |
-| 13 | [Partenaires & localisation](13-partenaires.md) |
-| 14 | [Animations (parcours, arrivée, Village Expo)](14-animations.md) |
-| 15 | [Allures & temps de passage (estimation)](15-allures-temps-de-passage.md) |
+| 12 | [Partenaires & localisation](12-partenaires.md) |
+| 13 | [Animations (parcours, arrivée, Village Expo)](13-animations.md) |
+| 14 | [Allures & temps de passage (estimation)](14-allures-temps-de-passage.md) |
 
 ## Sources
 

@@ -2,8 +2,7 @@
 
 ← [Sommaire](README.md)
 
-> Les points marqués **[À CONFIRMER]** sont détaillés dans [12-points-a-confirmer.md](12-points-a-confirmer.md).
-
+> Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources officielles : à vérifier auprès de l'organisation.
 
 - **Seul le sac transparent remis au Village Expo est accepté.** Aucun autre sac ni valise.
 - Format **35 × 45 cm, 2 kg maximum, 20 L maximum**. Contenu visible ; interdit de glisser un autre sac à l'intérieur.

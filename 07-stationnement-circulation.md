@@ -2,8 +2,7 @@
 
 ← [Sommaire](README.md)
 
-> Les points marqués **[À CONFIRMER]** sont détaillés dans [12-points-a-confirmer.md](12-points-a-confirmer.md).
-
+> Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources officielles : à vérifier auprès de l'organisation.
 
 ### Marseille (départ)
 - **Parc Chanot** : 7 €, **carte bancaire uniquement**, stationnement possible toute la journée. Entrée des véhicules **uniquement par le Rond-Point du Prado** ; sortie piétons par la porte C (bd Raymond Teisseire).
