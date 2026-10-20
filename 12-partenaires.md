@@ -3,7 +3,6 @@
 ← [Sommaire](README.md)
 
 > Sources : programme des animations du parcours (PDF), plan et programme du Village Expo (PDF), consignes de course (PDF), pages « Nos partenaires », « Opérations partenaires », « Infos accompagnants », « Village Expo ».
-> Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources officielles : à vérifier auprès de l'organisation.
 
 ## Zones partenaires sur le parcours
 
@@ -40,7 +39,7 @@ Les kilomètres varient de 0,1 à 0,5 km selon les documents : la page Accompagn
 | **Powerade** | Distribution de boissons **juste avant** le 1er ravitaillement (zone km 4,5). Dégustation au Village (stand 14) |
 | **Caisse d'Épargne CEPAC** | Flamme rouge, km 19 |
 | **Orange** | Team Orange Running, km 17,5 |
-| **Delouss Pasta** | Restauration au Village Expo, Pasta Box (prix et horaires [À CONFIRMER]) |
+| **Delouss Pasta** | Restauration au Village Expo, Pasta Box |
 | **Finishers** | Affiche personnalisée (envoi 5 jours après la course) |
 | **Flash Sport** | Photos de course, en ligne dès le lundi 26/10 |
 | **Région Sud / SNCF** | Trains ZOU : gratuits pour les coureurs, Pass spectateurs à 8 € |

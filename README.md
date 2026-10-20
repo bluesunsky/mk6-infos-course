@@ -3,7 +3,6 @@
 Fiches de référence pour le stand **« Infos Course »** de Marseille-Cassis 2026 (Village Expo des 23 et 24 octobre et jour J, dimanche 25 octobre 2026).
 
 > Compilées le 20/10/2026 à partir du site officiel [marseille-cassis.com](https://www.marseille-cassis.com), de la FAQ, du règlement et des PDF publiés par l'organisation (consignes, plans, circulation, animations). Ce n'est pas une publication officielle de l'organisation (SCO Sainte Marguerite) : en cas de doute, la parole de l'organisation fait foi.
-> ⚠️ Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources : à vérifier auprès de l'organisation avant de répondre.
 
 ## L'essentiel en 30 secondes
 

@@ -3,7 +3,6 @@
 ← [Sommaire](README.md)
 
 > Source principale : [Programme des animations (PDF)](https://www.marseille-cassis.com/upload/MC26/MCxALM26-Programme-Animations.pdf). Complété par les consignes de course, le plan d'arrivée et les pages Village Expo et Accompagnants.
-> Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources officielles : à vérifier auprès de l'organisation.
 
 ## Sur le parcours : orchestres, DJ et zones d'encouragement
 
@@ -101,7 +100,7 @@ Sources : [programme des animations du Village (PDF)](https://www.marseille-cass
 | Orange (22) | Pancartes personnalisées pour encourager les coureurs, machine à boules |
 | SCO Ste Marguerite (35) | Ambiance de la section athlétisme du club |
 | Point info course (45) | Toutes les infos sur la course : c'est nous |
-| Delouss Pasta (26) | Restauration italienne (10e année), Pasta Box spéciale coureur, douceurs italiennes (prix et horaires [À CONFIRMER]) |
+| Delouss Pasta (26) | Restauration italienne (10e année), Pasta Box spéciale coureur, douceurs italiennes |
 | Trains ZOU (44) | Retrait des bracelets coureurs, vente du Pass spectateurs |
 
 ## Suivre la course à distance
