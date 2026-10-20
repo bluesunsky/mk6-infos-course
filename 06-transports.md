@@ -2,21 +2,19 @@
 
 ← [Sommaire](README.md)
 
-> Les points marqués **[À CONFIRMER]** sont contradictoires ou absents des sources officielles : à vérifier auprès de l'organisation.
-
 ### Autocars « coureurs » (gratuits, sans réservation, **dossard + bracelet obligatoires**)
 
 **ALLER (6h00–8h00, en continu) :**
 | Départ | Lieu | Dépôt des sacs |
 |---|---|---|
 | **Aubagne (recommandé)** | Parking Nord Auchan Aubagne, zone des Paluds, près du Drive Auchan | obligatoire, dès 7h15 |
-| **Cassis** | Bas du parking des Gorguettes **et** bas de l'avenue Foch | obligatoire, dès 7h15 ou 7h25 [À CONFIRMER] |
+| **Cassis** | Bas du parking des Gorguettes **et** bas de l'avenue Foch | obligatoire, dès 7h15 |
 
 → Dépose à Marseille : **rue Maguy Roubaud**, à 200 m des camions vestiaires.
 
 **RETOUR (Cassis → Marseille ou Aubagne) :**
 - **11h30–15h00** : en continu, depuis le **bas de l'avenue Foch**.
-- **15h00 (ou 15h30 [À CONFIRMER])–18h00** : 1 à 2 cars toutes les 30 min, depuis l'**avenue de Provence**.
+- **15h00–18h00** : 1 à 2 cars toutes les 30 min, depuis l'**avenue de Provence**.
 - Dépose : **Marseille** rue Raymond Teisseire, à hauteur de la porte C du Parc Chanot · **Aubagne** Parking Nord Auchan (Paluds).
 
 ### Trains ZOU (Marseille Saint-Charles ↔ Cassis, dimanche 25/10)
