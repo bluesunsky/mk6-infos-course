@@ -74,16 +74,15 @@
 | km 0 → 3 | 13 → 50 m | Faux plat montant (bd Michelet, Mazargues) |
 | km 3 → 10 | 50 → **327 m** | **Montée** (Luminy, puis Col de la Gineste). Le plus raide : **km 8, environ 6 %** |
 | km 10 → 15 | 327 → 228 m | Plateau descendant, avec une petite remontée au km 13 (Carpiagne) |
-| km 15 → 18 | 228 → 90 m | **Descente de la Gineste** vers Cassis. Le plus raide : **km 17–18, environ −6 %** |
-| km 18 → 20 | 90 → 110 → 100 m | **Remontée au km 19** (environ +2 %, vers la gare), puis arrivée |
+| km 15 → 17 | 228 → 150 m | **Descente de la Gineste** vers Cassis, jusqu'au rond-point de la Gineste |
+| km 17 → 20 | 150 → 90 → 110 → 100 m | **Vallonné** (av. de Carnoux, chemin du Plan d'Olive, montée vers la gare), puis arrivée. **Très dur après la descente** |
 
 ## Conseils à donner
 
 - **Au col (km 10), on est « en retard » sur l'allure moyenne, et c'est normal.** Par exemple, pour 2h00, on passe vers 1h04 et non 1h00. On rattrape dans la descente.
 - **Ne pas partir trop vite** : la route monte dès le départ, et franchement à partir du km 3.
 - **Km 8** : le kilomètre le plus dur. Il est normal d'y être environ 1 min/km plus lent que l'allure moyenne.
-- **Km 17–18** : descente raide, attention aux cuisses et aux chevilles.
-- **Km 19** : la petite remontée vers la gare surprend après la descente. Garder un peu de réserve.
+- **Km 17–20 : vallonné, très dur après la descente.** Les jambes sont entamées par la descente de la Gineste, et les relances (av. de Carnoux, chemin du Plan d'Olive, montée vers la gare au km 19) font très mal. **Garder de la réserve pour la fin.**
 - **Le chrono est en temps réel** : il part au passage sous l'arche, quelle que soit la vague.
 - Barrières horaires : 1h30 pour passer le col et 3h au total, comptées **à partir du départ de la dernière vague** ; rond-point Bontoux à 12h45 (voir [05-parcours-ravitaillements-securite.md](05-parcours-ravitaillements-securite.md)).
 
@@ -102,5 +101,6 @@ Les meneurs portent des flammes d'allure (20 porteurs, 4 chronos de référence)
 ## Limites de l'estimation
 
 - Les altitudes sont lues sur le profil du plan officiel (une valeur par km). La pente réelle varie à l'intérieur de chaque km.
+- **Km 17–20 :** le profil officiel ne montre pas le vallonnement de cette portion. Les allures calculées pour les km 17 et 18 sont donc probablement **trop rapides** : prévoir de la marge.
 - L'estimation ne tient compte ni du monde au départ (les premiers km sont souvent plus lents), ni de la chaleur, ni du vent (le mistral sur le plateau peut changer beaucoup de choses).
 - Ce sont des repères, pas des consignes officielles.
