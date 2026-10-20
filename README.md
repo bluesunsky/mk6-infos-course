@@ -83,6 +83,13 @@ Fiches de référence pour le stand **« Infos Course »** de Marseille-Cassis 2
 | 13 | [Animations (parcours, arrivée, Village Expo)](13-animations.md) |
 | 14 | [Allures & temps de passage (estimation)](14-allures-temps-de-passage.md) |
 
+## BD « Les Aventures du Stand 45 »
+
+Bande dessinée fun et non officielle qui reprend les infos pratiques de la course.
+
+- [PDF de la BD](bd/bd-stand-45.pdf) (A4 paysage, 11 pages)
+- [Prompt de reproduction et retranscription complète](bd/prompt.md)
+
 ## Sources
 
 - Infos course : https://www.marseille-cassis.com/fr/infos-pratiques/infos-course
